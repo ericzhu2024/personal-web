@@ -1,7 +1,7 @@
 "use client"
 import Hero from "@/components/Hero";
 import About from "@/components/About";
-import Skills from '@/components/SKills'
+import Skills from '@/components/Skills'
 import NavBar from '@/components/Navbar'
 import Toggle from '@/components/sub/Toggle'
 import Load from '@/components/sub/Load'
